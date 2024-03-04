@@ -14,7 +14,7 @@ You can open a Pull Request to submit your token logo.
 
 For a better UX, icon files should be kept as small as possible while not compromising the image quality. It would help if you used tools like [TinyPNG](https://tinypng.com/) to compress the files before submitting.
 
-- Create a folder under `tokens` named with the token address in lowercase.
+- Create a folder under `tokens` named with the token address.
 - Optionally, compress your logo to reduce the file size.
 - Put your `logo.png` file inside the token folder. See above for the file format.
 
